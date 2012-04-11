@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/27/trunk/SMTPSender
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2/trunk/SMTPSender/main.m
+END
+SMTPSenderViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/SMTPSender/SMTPSenderViewController.xib
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/SMTPSender/Info.plist
+END
+buildstaticlib.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/14/trunk/SMTPSender/buildstaticlib.sh
+END
+SMTPSender_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/SMTPSender/SMTPSender_Prefix.pch
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/21/trunk/SMTPSender/README.txt
+END
+test.vcf
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/SMTPSender/test.vcf
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/SMTPSender/MainWindow.xib
+END
